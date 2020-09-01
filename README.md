@@ -1,6 +1,6 @@
 # CoffeeMachine
 
-TestNg Library is required to execute the project.
+TestNg Library is required to execute the project. ( added in pom.xml )
 
 Design of the Coffee Machine Assignment
 ---------------------------------------
