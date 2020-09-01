@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="12051" started-at="2020-09-01T19:08:24 IST" finished-at="2020-09-01T19:08:36 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="12051" started-at="2020-09-01T19:08:24 IST" finished-at="2020-09-01T19:08:36 IST">
+      <class name="JavaTestngTestCases">
+        <test-method status="PASS" signature="prepareHotCoffeeAndBlackTea()[pri:0, instance:JavaTestngTestCases@19dfb72a]" name="prepareHotCoffeeAndBlackTea" duration-ms="3010" started-at="2020-09-01T19:08:24 IST" finished-at="2020-09-01T19:08:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareHotCoffeeAndBlackTea -->
+        <test-method status="PASS" signature="prepareHotTeaAndBlackTea()[pri:0, instance:JavaTestngTestCases@19dfb72a]" name="prepareHotTeaAndBlackTea" duration-ms="3003" started-at="2020-09-01T19:08:27 IST" finished-at="2020-09-01T19:08:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareHotTeaAndBlackTea -->
+        <test-method status="PASS" signature="prepareHotTeaAndHotCoffee()[pri:0, instance:JavaTestngTestCases@19dfb72a]" name="prepareHotTeaAndHotCoffee" duration-ms="3004" started-at="2020-09-01T19:08:30 IST" finished-at="2020-09-01T19:08:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareHotTeaAndHotCoffee -->
+        <test-method status="PASS" signature="simulateMoreThanOneRequestToAnOutlet()[pri:0, instance:JavaTestngTestCases@19dfb72a]" name="simulateMoreThanOneRequestToAnOutlet" duration-ms="3004" started-at="2020-09-01T19:08:33 IST" finished-at="2020-09-01T19:08:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simulateMoreThanOneRequestToAnOutlet -->
+      </class> <!-- JavaTestngTestCases -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
